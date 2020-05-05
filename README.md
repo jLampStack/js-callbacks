@@ -1,4 +1,3 @@
-# js-callbacks
-JavaScript Callbacks
+# JavaScript Callbacks
 
 https://jlampstack.github.io/js-callbacks/
