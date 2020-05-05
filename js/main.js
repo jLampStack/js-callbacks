@@ -31,4 +31,16 @@ function createPost( post, cb ) {
 
 getPosts();
 
+/**
+ *  Creates / Adds post to posts array
+ * 
+ *  @param1 - Post Object
+ *  @param2 - Callback
+ */
 createPost({ title: 'Post Three', body: 'This is post three' }, getPosts );
+createPost({ title: 'Post Four', body: 'This is post four' }, getPosts );
+createPost({ title: 'Post Five', body: 'This is post five' }, getPosts );
+createPost({ title: 'Post Six', body: 'This is post six' }, getPosts );
+createPost({ title: 'Post Seven', body: 'This is post seven' }, getPosts );
+createPost({ title: 'Post Eight', body: 'This is post eight' }, getPosts );
+createPost({ title: 'Post Nine', body: 'This is post nine' }, getPosts );
